@@ -19,7 +19,7 @@
   A production-ready fullstack but simple containerized mail server📧
 </p>
 
-## ⚒️ Usage
+## 📃 Usage
 
 ### 1. Clone
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed on your computer.  
@@ -60,7 +60,7 @@ $ docker compose logs
 
 [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/)
 
-## 🤝 Contribute
+## 🫶 Contribute
 
 Here’s how we suggest you go about proposing a change to this project:
 
@@ -98,7 +98,7 @@ This software uses the following packages:
 - A [setup script](https://docker-mailserver.github.io/docker-mailserver/latest/config/setup.sh) for easy configuration and maintenance
 - SASLauthd with LDAP authentication
   
-## 📄 License
+## ⚖️ License
 
 The MIT License Copyright (c) 2023 - [OpenUp-LabTakizawa](https://github.com/OpenUp-LabTakizawa).  
 Please have a look at the [LICENSE](https://github.com/OpenUp-LabTakizawa/docker-mailserver/blob/main/LICENSE) for more details.
